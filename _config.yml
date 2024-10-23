@@ -22,7 +22,7 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 # Site Author
 author:
   name             : "Yujun Zhou"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.png"
   bio              : "University of Notre Dame"
   location         : "South Bend, IN, USA"
   employer         :
