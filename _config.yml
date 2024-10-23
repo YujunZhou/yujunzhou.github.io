@@ -21,7 +21,7 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 
 # Site Author
 author:
-  name             : "Yujun Zhou (周钰钧)"
+  name             : "Yujun Zhou<br>(周钰钧)"
   avatar           : "images/profile.jpg"
   bio              : "University of Notre Dame"
   location         : "South Bend, IN, USA"
