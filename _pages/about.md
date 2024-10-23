@@ -29,6 +29,7 @@ I am deeply interested in trustworthy large language models (LLMs) and adversari
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One first-author paper has been accepted by EMNLP 2024!
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024 Dataset and Benchmark Track as a spotlight!
 - *2024.05*: &nbsp;🎉🎉 One Paper is accepted by ACL 2024!
 - *2024.05*: &nbsp;🎉🎉 One first-author paper has been accepted by ICML 2024!
 - *2022.12*: &nbsp;🎉🎉 One Paper is accepted by AAAI 2023!
