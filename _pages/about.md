@@ -39,8 +39,26 @@ I am deeply interested in trustworthy large language models (LLMs) and adversari
 
 See more publications in my [Google Scholar](https://scholar.google.com/citations?user=t8iRCLUAAAAJ&hl=en)
 
-- ![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data](https://openreview.net/pdf?id=8ERo4jph0A), **Yujun Zhou**, Yufei Han, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
-- ![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-e87213) [Defending Jailbreak Prompts via In-Context Adversarial Game](https://arxiv.org/abs/2402.13148), **Yujun Zhou**, Yufei Han, Haomin Zhuang, Taicheng Guo, Kehan Guo, Zhenwen Liang, Hongyan Bao, and Xiangliang Zhang
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/IGSG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data](https://openreview.net/pdf?id=8ERo4jph0A), **Yujun Zhou**, Yufei Han, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
+
+[**Code**](https://github.com/YujunZhou/IGSG)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/ICAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-e87213) [Defending Jailbreak Prompts via In-Context Adversarial Game](https://arxiv.org/abs/2402.13148), **Yujun Zhou**, Yufei Han, Haomin Zhuang, Taicheng Guo, Kehan Guo, Zhenwen Liang, Hongyan Bao, and Xiangliang Zhang
+
+[**Code**](https://github.com/YujunZhou/In-Context-Adversarial-Game)
+
+</div>
+</div>
+
 - ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://arxiv.org/abs/2410.14182), **Yujun Zhou**, Jingdong Yang, Kehan Guo, Pin-Yu Chen, Tian Gao, Werner Geyer, Nuno Moniz, Nitesh V Chawla, Xiangliang Zhang
 - ![NeurIPS 2024 Spotlight](https://img.shields.io/badge/NeurIPS-2024-2024) [Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation](https://kehanguo2.github.io/Molpuzzle.io/), Kehan Guo, Bozhao Nan, **Yujun Zhou**, Taicheng Guo, Zhichun Guo, Mihir Surve, Zhenwen Liang, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
 
