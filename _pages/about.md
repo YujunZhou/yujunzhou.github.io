@@ -42,7 +42,9 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/IGSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data](https://openreview.net/pdf?id=8ERo4jph0A), **Yujun Zhou**, Yufei Han, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
+![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data](https://openreview.net/pdf?id=8ERo4jph0A)
+
+**Yujun Zhou**, Yufei Han, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
 
 [**Code**](https://github.com/YujunZhou/IGSG)
 
@@ -52,7 +54,9 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/ICAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-e87213) [Defending Jailbreak Prompts via In-Context Adversarial Game](https://arxiv.org/abs/2402.13148), **Yujun Zhou**, Yufei Han, Haomin Zhuang, Taicheng Guo, Kehan Guo, Zhenwen Liang, Hongyan Bao, and Xiangliang Zhang
+![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-e87213) [Defending Jailbreak Prompts via In-Context Adversarial Game](https://arxiv.org/abs/2402.13148)
+
+**Yujun Zhou**, Yufei Han, Haomin Zhuang, Taicheng Guo, Kehan Guo, Zhenwen Liang, Hongyan Bao, and Xiangliang Zhang
 
 [**Code**](https://github.com/YujunZhou/In-Context-Adversarial-Game)
 
