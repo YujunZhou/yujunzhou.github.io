@@ -38,7 +38,7 @@ I am deeply interested in trustworthy large language models (LLMs) and adversari
 
 # 📝 Publications 
 
-See more publications in my [Google Scholar](https://scholar.google.com/citations?user=t8iRCLUAAAAJ&hl=en)
+See more publications in my [Google Scholar](https://scholar.google.com/citations?user=t0c7rQQAAAAJ&hl=en)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/IGSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
