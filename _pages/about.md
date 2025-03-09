@@ -67,7 +67,7 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/labsafety.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://yujunzhou.github.io/LabSafetyBench.github.io/), **Yujun Zhou**, Jingdong Yang, Yue Huang, Kehan Guo, Zoe Emory, Bikram Ghosh, Amita Bedar, Sujay Shekar, Pin-Yu Chen, Tian Gao, Werner Geyer, Nuno Moniz, Nitesh V Chawla, Xiangliang Zhang
+![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://yujunzhou.github.io/LabSafetyBench.github.io/), **Yujun Zhou**, Jingdong Yang, Yue Huang, Kehan Guo, Zoe Emory, Bikram Ghosh, Amita Bedar, Sujay Shekar, Pin-Yu Chen, Tian Gao, Werner Geyer, Nuno Moniz, Nitesh V Chawla, Xiangliang Zhang
   
 [**Code**](https://github.com/YujunZhou/LabSafety-Bench)
 
