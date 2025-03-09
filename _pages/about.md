@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 2nd-year(2023 Spring-now) Ph.D student in Computer Science at [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). Before this, I received my B.E. degree in Computer Science and Engineering at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and my M.S degree in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
+I am a third-year(2023 Spring-now) Ph.D student in Computer Science at [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). Before this, I received my B.E. degree in Computer Science and Engineering at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and my M.S degree in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
 
 
 I am deeply interested in trustworthy large language models (LLMs) and adversarial machine learning. My work focuses on developing innovative methodologies in adversarial learning and LLMs to ensure the robustness and reliability of AI systems. This involves creating algorithms to detect and mitigate adversarial attacks and designing frameworks to enhance the safety of LLMs. My goal is to address critical challenges in AI by making machine learning models more resilient and trustworthy in real-world applications. Currently, I am engaged in the ND-IBM Tech Ethics Lab Collaborative Project, where I aim to extend the trustworthiness of LLMs to real-world safety-critical applications, such as lab safety, beyond the traditional focus areas.
@@ -28,6 +28,7 @@ I am deeply interested in trustworthy large language models (LLMs) and adversari
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Thrilled to be awarded OpenAI’s Researcher Access Program.
 - *2024.09*: &nbsp;🎉🎉 One first-author paper has been accepted by EMNLP 2024!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024 Dataset and Benchmark Track as a spotlight!
 - *2024.05*: &nbsp;🎉🎉 One Paper is accepted by ACL 2024!
@@ -45,7 +46,7 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 
 ![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data](https://openreview.net/pdf?id=8ERo4jph0A)
 
-**Yujun Zhou**, Yufei Han, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
+**Yujun Zhou***, Yufei Han*, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
 
 [**Code**](https://github.com/YujunZhou/IGSG)
 
@@ -64,9 +65,21 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 </div>
 </div>
 
-- ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://yujunzhou.github.io/LabSafetyBench.github.io/), **Yujun Zhou**, Jingdong Yang, Kehan Guo, Pin-Yu Chen, Tian Gao, Werner Geyer, Nuno Moniz, Nitesh V Chawla, Xiangliang Zhang
-- ![NeurIPS 2024 Spotlight](https://img.shields.io/badge/NeurIPS-2024-2024) [Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation](https://kehanguo2.github.io/Molpuzzle.io/), Kehan Guo, Bozhao Nan, **Yujun Zhou**, Taicheng Guo, Zhichun Guo, Mihir Surve, Zhenwen Liang, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/labsafety.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://yujunzhou.github.io/LabSafetyBench.github.io/), **Yujun Zhou**, Jingdong Yang, Yue Huang, Kehan Guo, Zoe Emory, Bikram Ghosh, Amita Bedar, Sujay Shekar, Pin-Yu Chen, Tian Gao, Werner Geyer, Nuno Moniz, Nitesh V Chawla, Xiangliang Zhang
+[**Code**](https://github.com/YujunZhou/LabSafety-Bench)
+[**Dataset**](https://huggingface.co/datasets/yujunzhou/LabSafety_Bench)
 
+</div>
+</div>
+
+- ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296), Yue Huang, Chujie Gao, Siyuan Wu, Haoran Wang, Xiangqi Wang, **Yujun Zhou**, Yanbo Wang, Jiayi Ye, Jiawen Shi, Qihui Zhang, Yuan Li, Han Bao, Zhaoyi Liu, Tianrui Guan, Dongping Chen, Ruoxi Chen, Kehan Guo, Andy Zou, Bryan Hooi Kuen-Yew, Caiming Xiong, Elias Stengel-Eskin, Hongyang Zhang, Hongzhi Yin, Huan Zhang, Huaxiu Yao, Jaehong Yoon, Jieyu Zhang, Kai Shu, Kaijie Zhu, Ranjay Krishna, Swabha Swayamdipta, Taiwei Shi, Weijia Shi, Xiang Li, Yiwei Li, Yuexing Hao, Zhihao Jia, Zhize Li, Xiuying Chen, Zhengzhong Tu, Xiyang Hu, Tianyi Zhou, Jieyu Zhao, Lichao Sun, Furong Huang, Or Cohen Sasson, Prasanna Sattigeri, Anka Reuel, Max Lamparth, Yue Zhao, Nouha Dziri, Yu Su, Huan Sun, Heng Ji, Chaowei Xiao, Mohit Bansal, Nitesh V Chawla, Jian Pei, Jianfeng Gao, Michael Backes, Philip S Yu, Neil Zhenqiang Gong, Pin-Yu Chen, Bo Li, Xiangliang Zhang
+- ![NeurIPS 2024 Spotlight](https://img.shields.io/badge/NeurIPS-2024-2024) [Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation](https://kehanguo2.github.io/Molpuzzle.io/), Kehan Guo, Bozhao Nan, **Yujun Zhou**, Taicheng Guo, Zhichun Guo, Mihir Surve, Zhenwen Liang, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
+- ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations?](https://arxiv.org/abs/2410.23426), Yue Huang*, Zhengqing Yuan*, **Yujun Zhou***, Kehan Guo, Xiangqi Wang, Haomin Zhuang, Weixiang Sun, Lichao Sun, Jindong Wang, Yanfang Ye, Xiangliang Zhang
+- ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [Position: We Need An Adaptive Interpretation of Helpful, Honest, and Harmless Principles](https://arxiv.org/abs/2502.06059), Yue Huang, Chujie Gao, **Yujun Zhou**, Kehan Guo, Xiangqi Wang, Or Cohen-Sasson, Max Lamparth, Xiangliang Zhang
+- ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis](https://arxiv.org/abs/2502.13996), Yicheng Lang, Kehan Guo, Yue Huang, **Yujun Zhou**, Haomin Zhuang, Tianyu Yang, Yao Su, Xiangliang Zhang
+- ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [Artificial Intelligence in Spectroscopy: Advancing Chemistry from Prediction to Generation and Beyond](https://arxiv.org/abs/2502.09897), Kehan Guo, Yili Shen, Gisela Abigail Gonzalez-Montiel, Yue Huang, **Yujun Zhou**, Mihir Surve, Zhichun Guo, Prayel Das, Nitesh V Chawla, Olaf Wiest, Xiangliang Zhang
 - ![ACL 2024](https://img.shields.io/badge/ACL-2024-A27D46) [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://scemqa.github.io/), Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, **Yujun Zhou**, Tianyu Yang, Jiajun Jiao, Renjie Pi, Jipeng Zhang, Xiangliang Zhang
 - ![AAAI 2023](https://img.shields.io/badge/AAAI-2023-f3d6a3)[Towards efficient and domain-agnostic evasion attack with high-dimensional categorical inputs](https://ojs.aaai.org/index.php/AAAI/article/download/25828/25600), Hongyan Bao, Yufei Han, **Yujun Zhou**, Xin Gao, Xiangliang Zhang
 - ![ICLR 2022](https://img.shields.io/badge/ICLR-2022-d7a2b3) [Towards understanding the robustness against evasion attack on categorical data](https://openreview.net/pdf?id=BmJV7kyAmg), Hongyan Bao, Yufei Han, **Yujun Zhou**, Yun Shen, Xiangliang Zhang
