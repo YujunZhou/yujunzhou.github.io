@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year(2023 Spring-now) Ph.D student in Computer Science at [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). Before this, I received my B.E. degree in Computer Science and Engineering at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and my M.S degree in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
+I am a third-year(2023 Spring-now) Ph.D student in [Mine Lab](https://mine-lab-nd.github.io/) in Computer Science at [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). I’m also a graduate student in [Foundation Models and Applications Lab (FMAL)](https://lucyinstitute.nd.edu/centers-and-labs/foundation-models-and-applications-lab-fmal/) at [Lucy Family Institute for Data & Society](https://lucyinstitute.nd.edu/). Before this, I received my B.E. degree in Computer Science and Engineering at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and my M.S degree in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
 
 
-I am deeply interested in trustworthy large language models (LLMs) and adversarial machine learning. My work focuses on developing innovative methodologies in adversarial learning and LLMs to ensure the robustness and reliability of AI systems. This involves creating algorithms to detect and mitigate adversarial attacks and designing frameworks to enhance the safety of LLMs. My goal is to address critical challenges in AI by making machine learning models more resilient and trustworthy in real-world applications. Currently, I am engaged in the ND-IBM Tech Ethics Lab Collaborative Project, where I aim to extend the trustworthiness of LLMs to real-world safety-critical applications, such as lab safety, beyond the traditional focus areas.
+I am deeply interested in Large Language Model (LLM) Reasoning and trustworthy LLMs. I aim to understand how LLMs reason, where their reasoning fails, and how to enhance their ability to generalize beyond seen problems. In parallel, I study how to make LLMs more reliable, safe, and aligned when applied to safety-critical contexts. Also, I am engaged in [ND-IBM Tech Ethics Lab Collaborative Project](https://ethics.nd.edu/labs-and-centers/notre-dame-ibm-technology-ethics-lab/), where I explore ways to extend the trustworthiness of LLMs to practical domains such as laboratory safety and investigate the misalignment behaviors.
 
 <blockquote style="font-size: 16px; line-height: 1.6;">
     I am seeking potential research collaborations and the position of industry research intern. If you are interested, please <a href="mailto:yzhou25@nd.edu">contact me</a>.
@@ -28,30 +28,50 @@ I am deeply interested in trustworthy large language models (LLMs) and adversari
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Thrilled to be awarded OpenAI’s Researcher Access Program.
-- *2024.09*: &nbsp;🎉🎉 One first-author paper has been accepted by EMNLP 2024!
-- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024 Dataset and Benchmark Track as a spotlight!
-- *2024.05*: &nbsp;🎉🎉 One Paper is accepted by ACL 2024!
-- *2024.05*: &nbsp;🎉🎉 One first-author paper has been accepted by ICML 2024!
-- *2022.12*: &nbsp;🎉🎉 One Paper is accepted by AAAI 2023!
-- *2022.10*: &nbsp;🎉🎉 One Paper is accepted by BigData 2022!
-- *2022.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2022!
+- *2024.08*: &nbsp; One first-author paper has been accepted by EMNLP Findings 2025!
+- *2025.08*: &nbsp; I’m excited to share that I have extended my internship at Tencent AI Lab！
+- *2025.05*: &nbsp; I joined Tencent AI Lab as a research intern this summer! See you in Seattle！
+- *2025.05*: &nbsp; One Paper is accepted by ACL Findings 2025!
+- *2025.04*: &nbsp; One Paper is accepted by IJCAI 2025 Survey Track!
+- *2025.01*: &nbsp; Thrilled to be awarded OpenAI’s Researcher Access Program.
+- *2024.09*: &nbsp; One first-author paper has been accepted by EMNLP 2024!
+- *2024.09*: &nbsp; One paper has been accepted by NeurIPS 2024 Dataset and Benchmark Track as a spotlight!
+- *2024.05*: &nbsp; One Paper is accepted by ACL 2024!
+- *2024.05*: &nbsp; One first-author paper has been accepted by ICML 2024!
+- *2022.12*: &nbsp; One Paper is accepted by AAAI 2023!
+- *2022.10*: &nbsp; One Paper is accepted by BigData 2022!
+- *2022.01*: &nbsp; One paper is accepted by ICLR 2022!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 See more publications in my [Google Scholar](https://scholar.google.com/citations?user=t0c7rQQAAAAJ&hl=en)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/IGSG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/evol-rl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data](https://openreview.net/pdf?id=8ERo4jph0A)
+![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [Evolving Language Models without Labels: Majority Drives Selection, Novelty Promotes Variation](https://arxiv.org/abs/2509.15194)
 
-**Yujun Zhou***, Yufei Han*, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
+**Yujun Zhou***, Zhenwen Liang*, Haolin Liu, Wenhao Yu, Kishan Panaganti, Linfeng Song, Dian Yu, Xiangliang Zhang, Haitao Mi, Dong Yu
 
-[**Code**](https://github.com/YujunZhou/IGSG)
+[**Code**](https://github.com/YujunZhou/EVOL-RL)
+[**Huggingface Models**](https://huggingface.co/collections/yujunzhou/evol-rl-68d8f3f7e2fadab49d6c3b9b)
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2025</div><img src='images/finelogic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+![EMNLP Findings 2025](https://img.shields.io/badge/EMNLP-Findings-2025-e87213) [Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study](https://arxiv.org/abs/2506.04810)
+
+**Yujun Zhou***, Jiayi Ye*, Zipeng Ling*, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang
+
+[**Code**](https://github.com/YujunZhou/FineLogic)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/ICAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,6 +81,18 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 **Yujun Zhou**, Yufei Han, Haomin Zhuang, Taicheng Guo, Kehan Guo, Zhenwen Liang, Hongyan Bao, and Xiangliang Zhang
 
 [**Code**](https://github.com/YujunZhou/In-Context-Adversarial-Game)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/IGSG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data](https://openreview.net/pdf?id=8ERo4jph0A)
+
+**Yujun Zhou***, Yufei Han*, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
+
+[**Code**](https://github.com/YujunZhou/IGSG)
 
 </div>
 </div>
