@@ -51,9 +51,10 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 
 ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [Evolving Language Models without Labels: Majority Drives Selection, Novelty Promotes Variation](https://arxiv.org/abs/2509.15194)
 
-**Yujun Zhou***, Zhenwen Liang*, Haolin Liu, Wenhao Yu, Kishan Panaganti, Linfeng Song, Dian Yu, Xiangliang Zhang, Haitao Mi, Dong Yu
+**Yujun Zhou**&#42;, Zhenwen Liang&#42;, Haolin Liu, Wenhao Yu, Kishan Panaganti, Linfeng Song, Dian Yu, Xiangliang Zhang, Haitao Mi, Dong Yu
 
 [**Code**](https://github.com/YujunZhou/EVOL-RL)
+
 [**Huggingface Models**](https://huggingface.co/collections/yujunzhou/evol-rl-68d8f3f7e2fadab49d6c3b9b)
 
 </div>
@@ -65,7 +66,7 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 
 ![EMNLP Findings 2025](https://img.shields.io/badge/EMNLP(Findings)-2025-e87223) [Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study](https://arxiv.org/abs/2506.04810)
 
-**Yujun Zhou***, Jiayi Ye*, Zipeng Ling*, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang
+**Yujun Zhou**&#42;, Jiayi Ye&#42;, Zipeng Ling&#42;, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang
 
 [**Code**](https://github.com/YujunZhou/FineLogic)
 
