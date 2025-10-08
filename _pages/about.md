@@ -63,7 +63,7 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2025</div><img src='images/finelogic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-![EMNLP Findings 2025](https://img.shields.io/badge/EMNLP-Findings-2025-e87213) [Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study](https://arxiv.org/abs/2506.04810)
+![EMNLP Findings 2025](https://img.shields.io/badge/EMNLP(Findings)-2025-e87223) [Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study](https://arxiv.org/abs/2506.04810)
 
 **Yujun Zhou***, Jiayi Ye*, Zipeng Ling*, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang
 
