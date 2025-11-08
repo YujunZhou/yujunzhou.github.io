@@ -28,7 +28,8 @@ I am deeply interested in Large Language Model (LLM) Reasoning and trustworthy L
 
 
 # 🔥 News
-- *2024.08*: &nbsp; One first-author paper has been accepted by EMNLP Findings 2025!
+- *2025.11*: &nbsp; One first-author paper has been accepted by Nature Machine Intelligence!
+- *2025.08*: &nbsp; One first-author paper has been accepted by EMNLP Findings 2025!
 - *2025.08*: &nbsp; I’m excited to share that I have extended my internship at Tencent AI Lab！
 - *2025.05*: &nbsp; I joined Tencent AI Lab as a research intern this summer! See you in Seattle！
 - *2025.05*: &nbsp; One Paper is accepted by ACL Findings 2025!
@@ -100,7 +101,7 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/labsafety.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://yujunzhou.github.io/LabSafetyBench.github.io/)
+![Nature Machine Intelligence](https://img.shields.io/badge/Nature-MachineIntelligence-b4d3a5) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://yujunzhou.github.io/LabSafetyBench.github.io/)
 
  **Yujun Zhou**, Jingdong Yang, Yue Huang, Kehan Guo, Zoe Emory, Bikram Ghosh, Amita Bedar, Sujay Shekar, Pin-Yu Chen, Tian Gao, Werner Geyer, Nuno Moniz, Nitesh V Chawla, Xiangliang Zhang
   
