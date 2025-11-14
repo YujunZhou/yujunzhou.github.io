@@ -88,18 +88,6 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/IGSG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data](https://openreview.net/pdf?id=8ERo4jph0A)
-
-**Yujun Zhou***, Yufei Han*, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
-
-[**Code**](https://github.com/YujunZhou/IGSG)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/labsafety.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ![Nature Machine Intelligence](https://img.shields.io/badge/Nature-MachineIntelligence-b4d3a5) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://yujunzhou.github.io/LabSafetyBench.github.io/)
@@ -113,16 +101,29 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/IGSG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [Attack-free Evaluating and Enhancing Adversarial Robustness on Categorical Data](https://openreview.net/pdf?id=8ERo4jph0A)
+
+**Yujun Zhou***, Yufei Han*, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
+
+[**Code**](https://github.com/YujunZhou/IGSG)
+
+</div>
+</div>
+
+
+
 - ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296), Yue Huang, Chujie Gao, Siyuan Wu, Haoran Wang, Xiangqi Wang, **Yujun Zhou**, Yanbo Wang, Jiayi Ye, Jiawen Shi, Qihui Zhang, Yuan Li, Han Bao, Zhaoyi Liu, Tianrui Guan, Dongping Chen, Ruoxi Chen, Kehan Guo, Andy Zou, Bryan Hooi Kuen-Yew, Caiming Xiong, Elias Stengel-Eskin, Hongyang Zhang, Hongzhi Yin, Huan Zhang, Huaxiu Yao, Jaehong Yoon, Jieyu Zhang, Kai Shu, Kaijie Zhu, Ranjay Krishna, Swabha Swayamdipta, Taiwei Shi, Weijia Shi, Xiang Li, Yiwei Li, Yuexing Hao, Zhihao Jia, Zhize Li, Xiuying Chen, Zhengzhong Tu, Xiyang Hu, Tianyi Zhou, Jieyu Zhao, Lichao Sun, Furong Huang, Or Cohen Sasson, Prasanna Sattigeri, Anka Reuel, Max Lamparth, Yue Zhao, Nouha Dziri, Yu Su, Huan Sun, Heng Ji, Chaowei Xiao, Mohit Bansal, Nitesh V Chawla, Jian Pei, Jianfeng Gao, Michael Backes, Philip S Yu, Neil Zhenqiang Gong, Pin-Yu Chen, Bo Li, Xiangliang Zhang
-- ![NeurIPS 2025 Spotlight](https://img.shields.io/badge/NeurIPS-2025-2025)[AdaReasoner: Adaptive Reasoning Enables More Flexible Thinking in Large Language Models], Xiangqi Wang, Yue Huang, Yanbo Wang, Xiaonan Luo, Kehan Guo, Yujun Zhou, Xiangliang Zhang
-- ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-2025)[ChemOrch: Empowering LLMs with Chemical Intelligence via Synthetic Instructions], Yue Huang, Zhengzhe Jiang, Xiaonan Luo, Kehan Guo, Haomin Zhuang, Yujun Zhou, Zhengqing Yuan, Xiaoqi Sun, Jules Schleinitz, Yanbo Wang, Shuhao Zhang, Mihir Surve, Nitesh V Chawla, Olaf Wiest, Xiangliang Zhang
+- ![NeurIPS 2025 Spotlight](https://img.shields.io/badge/NeurIPS-2025-2025)[AdaReasoner: Adaptive Reasoning Enables More Flexible Thinking in Large Language Models](https://arxiv.org/abs/2505.17312), Xiangqi Wang, Yue Huang, Yanbo Wang, Xiaonan Luo, Kehan Guo, Yujun Zhou, Xiangliang Zhang
+- ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-2025)[ChemOrch: Empowering LLMs with Chemical Intelligence via Synthetic Instructions](https://arxiv.org/abs/2509.16543), Yue Huang, Zhengzhe Jiang, Xiaonan Luo, Kehan Guo, Haomin Zhuang, Yujun Zhou, Zhengqing Yuan, Xiaoqi Sun, Jules Schleinitz, Yanbo Wang, Shuhao Zhang, Mihir Surve, Nitesh V Chawla, Olaf Wiest, Xiangliang Zhang
 - ![NeurIPS 2024 Spotlight](https://img.shields.io/badge/NeurIPS-2024-2024) [Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation](https://kehanguo2.github.io/Molpuzzle.io/), Kehan Guo, Bozhao Nan, **Yujun Zhou**, Taicheng Guo, Zhichun Guo, Mihir Surve, Zhenwen Liang, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
 - ![COLM 2025](https://img.shields.io/badge/COLM-2025-d928a7) [Exposing and Patching the Flaws of Large Language Models in Social Character Simulation](https://openreview.net/forum?id=B5E3ijlLML#discussion), Yue Huang*, Zhengqing Yuan*, **Yujun Zhou***, Kehan Guo, Xiangqi Wang, Haomin Zhuang, Weixiang Sun, Lichao Sun, Jindong Wang, Yanfang Ye, Xiangliang Zhang
 - ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [Position: We Need An Adaptive Interpretation of Helpful, Honest, and Harmless Principles](https://arxiv.org/abs/2502.06059), Yue Huang, Chujie Gao, **Yujun Zhou**, Kehan Guo, Xiangqi Wang, Or Cohen-Sasson, Max Lamparth, Xiangliang Zhang
 - ![ACL 2025 Findings](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis](https://arxiv.org/abs/2502.13996), Yicheng Lang, Kehan Guo, Yue Huang, **Yujun Zhou**, Haomin Zhuang, Tianyu Yang, Yao Su, Xiangliang Zhang
 - ![IJCAI 2025](https://img.shields.io/badge/IJCAI-2025-e22372) [Artificial Intelligence in Spectroscopy: Advancing Chemistry from Prediction to Generation and Beyond](https://arxiv.org/abs/2502.09897), Kehan Guo, Yili Shen, Gisela Abigail Gonzalez-Montiel, Yue Huang, **Yujun Zhou**, Mihir Surve, Zhichun Guo, Prayel Das, Nitesh V Chawla, Olaf Wiest, Xiangliang Zhang
 - ![ACL 2024](https://img.shields.io/badge/ACL-2024-A27D46) [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://scemqa.github.io/), Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, **Yujun Zhou**, Tianyu Yang, Jiajun Jiao, Renjie Pi, Jipeng Zhang, Xiangliang Zhang
-- ![AAAI 2023](https://img.shields.io/badge/AAAI-2023-f3d6a3)[Towards efficient and domain-agnostic evasion attack with high-dimensional categorical inputs](https://ojs.aaai.org/index.php/AAAI/article/download/25828/25600), Hongyan Bao, Yufei Han, **Yujun Zhou**, Xin Gao, Xiangliang Zhang
 - ![ICLR 2022](https://img.shields.io/badge/ICLR-2022-d7a2b3) [Towards understanding the robustness against evasion attack on categorical data](https://openreview.net/pdf?id=BmJV7kyAmg), Hongyan Bao, Yufei Han, **Yujun Zhou**, Yun Shen, Xiangliang Zhang
 
 <!--# 🎖 Honors and Awards
