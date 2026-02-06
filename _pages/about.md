@@ -51,7 +51,7 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/labsafety.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-![Nature Machine Intelligence](https://img.shields.io/badge/Nature-MachineIntelligence-b4d3a5) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://yujunzhou.github.io/LabSafetyBench.github.io/)
+![Nature Machine Intelligence](https://img.shields.io/badge/Nature-MachineIntelligence-b4d3a5) [LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://www.nature.com/articles/s42256-025-01152-1)
 
  **Yujun Zhou**, Jingdong Yang, Yue Huang, Kehan Guo, Zoe Emory, Bikram Ghosh, Amita Bedar, Sujay Shekar, Pin-Yu Chen, Tian Gao, Werner Geyer, Nuno Moniz, Nitesh V Chawla, Xiangliang Zhang
   
