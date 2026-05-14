@@ -28,6 +28,8 @@ I am deeply interested in Large Language Model (LLM) Reasoning and trustworthy L
 
 
 # 🔥 News
+- *2026.05*: &nbsp; Two papers have been accepted by ICML 2026, including one first-author paper!
+- *2026.05*: &nbsp; Four papers have been accepted by ACL 2026, including two main conference papers!
 - *2026.01*: &nbsp; Two papers have been accepted by ICLR 2026!
 - *2025.11*: &nbsp; One first-author paper has been accepted by Nature Machine Intelligence!
 - *2025.09*: &nbsp; Two papers have been accepted by Neurips 2025!
@@ -58,6 +60,19 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 [**Code**](https://github.com/YujunZhou/LabSafety-Bench)
 
 [**Dataset**](https://huggingface.co/datasets/yujunzhou/LabSafety_Bench)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/capability_risk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+![ICML 2026](https://img.shields.io/badge/ICML-2026-A84111) [Capability-Oriented Training Induced Alignment Risk](https://arxiv.org/abs/2602.12124)
+
+**Yujun Zhou**&#42;, Yue Huang&#42;, Han Bao&#42;, Kehan Guo, Zhenwen Liang, Pin-Yu Chen, Tian Gao, Werner Geyer, Nuno Moniz, Nitesh V Chawla, Xiangliang Zhang
+
+[**Code**](https://github.com/YujunZhou/Capability_Oriented_Alignment_Risk)
 
 </div>
 </div>
@@ -118,7 +133,8 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 </div>
 
 
-
+- ![ACL 2026](https://img.shields.io/badge/ACL-2026-A27D46) [Too Correct to Learn: Reinforcement Learning on Saturated Reasoning Data](https://arxiv.org/abs/2604.18493), Zhenwen Liang&#42;, **Yujun Zhou**&#42;, Sidi Lu, Xiangliang Zhang, Haitao Mi, Dong Yu
+- ![ACL 2026](https://img.shields.io/badge/ACL-2026-A27D46) [CLUE: Non-parametric Verification from Experience via Hidden-State Clustering](https://arxiv.org/abs/2510.01591), Zhenwen Liang&#42;, Ruosen Li&#42;, **Yujun Zhou**&#42;, Linfeng Song, Dian Yu, Xinya Du, Haitao Mi, Dong Yu
 - ![Arxiv Preprint](https://img.shields.io/badge/Arxiv-Preprint-b4d723) [On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296), Yue Huang, Chujie Gao, Siyuan Wu, Haoran Wang, Xiangqi Wang, **Yujun Zhou**, Yanbo Wang, Jiayi Ye, Jiawen Shi, Qihui Zhang, Yuan Li, Han Bao, Zhaoyi Liu, Tianrui Guan, Dongping Chen, Ruoxi Chen, Kehan Guo, Andy Zou, Bryan Hooi Kuen-Yew, Caiming Xiong, Elias Stengel-Eskin, Hongyang Zhang, Hongzhi Yin, Huan Zhang, Huaxiu Yao, Jaehong Yoon, Jieyu Zhang, Kai Shu, Kaijie Zhu, Ranjay Krishna, Swabha Swayamdipta, Taiwei Shi, Weijia Shi, Xiang Li, Yiwei Li, Yuexing Hao, Zhihao Jia, Zhize Li, Xiuying Chen, Zhengzhong Tu, Xiyang Hu, Tianyi Zhou, Jieyu Zhao, Lichao Sun, Furong Huang, Or Cohen Sasson, Prasanna Sattigeri, Anka Reuel, Max Lamparth, Yue Zhao, Nouha Dziri, Yu Su, Huan Sun, Heng Ji, Chaowei Xiao, Mohit Bansal, Nitesh V Chawla, Jian Pei, Jianfeng Gao, Michael Backes, Philip S Yu, Neil Zhenqiang Gong, Pin-Yu Chen, Bo Li, Xiangliang Zhang
 - ![NeurIPS 2025-Spotlight](https://img.shields.io/badge/NeurIPS-2025-2025)[AdaReasoner: Adaptive Reasoning Enables More Flexible Thinking in Large Language Models](https://arxiv.org/abs/2505.17312), Xiangqi Wang, Yue Huang, Yanbo Wang, Xiaonan Luo, Kehan Guo, Yujun Zhou, Xiangliang Zhang
 - ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-2025)[ChemOrch: Empowering LLMs with Chemical Intelligence via Synthetic Instructions](https://arxiv.org/abs/2509.16543), Yue Huang, Zhengzhe Jiang, Xiaonan Luo, Kehan Guo, Haomin Zhuang, Yujun Zhou, Zhengqing Yuan, Xiaoqi Sun, Jules Schleinitz, Yanbo Wang, Shuhao Zhang, Mihir Surve, Nitesh V Chawla, Olaf Wiest, Xiangliang Zhang
