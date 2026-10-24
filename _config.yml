@@ -66,6 +66,8 @@ include:
   - files
 exclude:
   - docs
+  - "当前任务.md"
+  - scripts
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
