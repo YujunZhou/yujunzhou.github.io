@@ -1,4 +1,4 @@
-/* Keep the existing visitor counter, but never count local development visits. */
+/* Count production visits without displaying a map; the footer links to statistics. */
 (() => {
   if (window.location.hostname !== 'yujunzhou.github.io') return;
   const mount = document.querySelector('[data-visitor-map]');
@@ -7,7 +7,6 @@
   script.id = 'mapmyvisitors';
   script.async = true;
   script.src = 'https://mapmyvisitors.com/map.js?d=23pIdJVhMjN_8WNUnKTi-FQTV-hOMyUeuluWO9V4xPc&cl=ffffff&w=180';
-  mount.hidden = false;
-  script.addEventListener('error', () => { mount.hidden = true; });
+  // Keep the widget hidden while its script records visits.
   mount.append(script);
 })();
