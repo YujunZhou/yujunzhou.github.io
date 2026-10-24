@@ -40,6 +40,8 @@ h1 span{display:inline-block;font-family:var(--sans);font-size:21px;font-weight:
 .contact-links{display:flex;align-items:center;flex-wrap:wrap;gap:8px 23px;margin-top:22px;font-size:13px;font-weight:550}
 .contact-links a{display:inline-flex;align-items:center;gap:7px;white-space:nowrap;text-decoration:none;padding:7px 0;border-bottom:1px solid #bac8bc}
 .contact-icon{width:15px;height:15px;flex:none}
+.contact-links a[href^="mailto:"] .contact-icon{height:13px;transform:translateY(1px)}
+.contact-links a[href^="https://scholar.google.com/"]{gap:11px}
 .contact-links a:hover{border-color:var(--green)}
 .contact-links .cv-link{background:var(--green);color:#fff;padding:8px 17px;border:1px solid var(--green);border-radius:2px}
 .contact-links .cv-link:hover{background:#173b32}
