@@ -38,7 +38,8 @@ h1 span{display:inline-block;font-family:var(--sans);font-size:21px;font-weight:
 .bio{font-size:14px;line-height:1.85;max-width:690px;color:#515c55;margin-top:13px}
 .bio a{color:inherit}
 .contact-links{display:flex;align-items:center;flex-wrap:wrap;gap:8px 23px;margin-top:22px;font-size:13px;font-weight:550}
-.contact-links a{text-decoration:none;padding:7px 0;border-bottom:1px solid #bac8bc}
+.contact-links a{display:inline-flex;align-items:center;gap:7px;white-space:nowrap;text-decoration:none;padding:7px 0;border-bottom:1px solid #bac8bc}
+.contact-icon{width:15px;height:15px;flex:none}
 .contact-links a:hover{border-color:var(--green)}
 .contact-links .cv-link{background:var(--green);color:#fff;padding:8px 17px;border:1px solid var(--green);border-radius:2px}
 .contact-links .cv-link:hover{background:#173b32}
@@ -148,7 +149,8 @@ details[open]>summary .when-closed{display:none}
  .intro-body{margin-top:17px}
  .research-statement{font-size:16px;line-height:1.75}
  .bio{font-size:13px;line-height:1.8;margin-top:11px}
- .contact-links{gap:8px 17px;font-size:12px;margin-top:18px}
+ .contact-links{display:grid;grid-template-columns:repeat(3,max-content);justify-content:start;gap:8px 17px;font-size:12px;margin-top:18px}
+ .contact-links a{justify-self:start}
  .contact-links .cv-link{padding:7px 14px}
  .availability{display:block;margin-top:21px;padding:15px 17px}
  .availability-label{max-width:none;display:block;font-size:11px;margin-bottom:6px}
